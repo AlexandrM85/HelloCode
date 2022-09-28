@@ -1,0 +1,15 @@
+C:\Разное\Обучение\Programming\Example002\bin\Debug\net6.0\Example002.exe
+C:\Разное\Обучение\Programming\Example002\bin\Debug\net6.0\Example002.deps.json
+C:\Разное\Обучение\Programming\Example002\bin\Debug\net6.0\Example002.runtimeconfig.json
+C:\Разное\Обучение\Programming\Example002\bin\Debug\net6.0\Example002.dll
+C:\Разное\Обучение\Programming\Example002\bin\Debug\net6.0\Example002.pdb
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.csproj.AssemblyReference.cache
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.AssemblyInfoInputs.cache
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.AssemblyInfo.cs
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.csproj.CoreCompileInputs.cache
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.dll
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\refint\Example002.dll
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.pdb
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\Example002.genruntimeconfig.cache
+C:\Разное\Обучение\Programming\Example002\obj\Debug\net6.0\ref\Example002.dll
